@@ -2,7 +2,9 @@
     background: #fc0;
     height: 100px;
     position: relative;
-    width: 100px;
+    width: 100px; 
+    border-radius: 50%;
+    border: 2px solid black;
 }
 
 .face {
